@@ -41,3 +41,26 @@
 <img src="https://raw.githubusercontent.com/MachadoRl/MachadoRl/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MachadoRl/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@MachadoRl/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MachadoRl/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@MachadoRl/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@MachadoRl/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@MachadoRl/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MachadoRl/MachadoRl/output/snake.svg" alt="Snake animation" />
+
+###
