@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Estudando na Etec Sales Gomes - Tatuí, SP<br>📚 Estou estudando Java, AWS, MySQL, CSS e JavaScript<br>🎯 Busco me tornar um profissional focado em front-end e no futuro me tornar um Fullstack<br>💼 Buscando me colocar no mercado</p>
+<p align="left">✨ Fazendo Tecnólogo de DS na Etec Sales Gomes - Tatuí, SP<br>📚 Estou estudando Java, AWS, MySQL, CSS e JavaScript<br>🎯 Busco me tornar um profissional focado em front-end e no futuro me tornar um Fullstack<br>💼 Buscando me colocar no mercado</p>
 
 ###
 
