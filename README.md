@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Fazendo Tecnólogo de DS na Etec Sales Gomes - Tatuí, SP<br>📚 Estou estudando CSS, Bootstrap, Node.js e React, mas continuo aprofundando meus conhecimentos nos fundamentos.<br>🎯 Busco me tornar um profissional focado em front-end e no futuro me tornar um Fullstack<br>💼 Buscando me colocar no mercado</p>
+<p align="left">✨ Formado em Tecnólogo de DS na Etec Sales Gomes - Tatuí, SP<br>📚 Estou estudando CSS, Bootstrap, Node.js e React, mas continuo aprofundando meus conhecimentos nos fundamentos.<br>🎯 Busco me tornar um profissional focado em front-end e no futuro me tornar um Fullstack<br>💼 Buscando me colocar no mercado</p>
 
 ###
 
