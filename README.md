@@ -4,8 +4,22 @@
 
 <br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/rodrigolemesm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e0e0e?style=for-the-badge&logo=linkedin&logoColor=f2f2f2" alt="LinkedIn" />
+  </a>
+  <a href="SEU_LINK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-0e0e0e?style=for-the-badge&logo=linktree&logoColor=f2f2f2" alt="Linktree" />
+  </a>
+  <a href="SEU_LINK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=f2f2f2" alt="Portfólio" />
+  </a>
+</div>
+
+<br>
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="./Sobre mim.svg" />
+  <img data-importer="image" height="45" src="./Sobre mim.svg" />
   <hr>
 </div>
 
@@ -22,7 +36,7 @@
 <br>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="./Tecnologias.svg" />
+  <img data-importer="image" height="45" src="./Tecnologias.svg" />
   <hr>
 </div>
 
