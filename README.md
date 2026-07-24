@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/white" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/white" height="40" alt="css3 logo" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white&color=0d1117" height="40" alt="css3 logo" />
 </div>
 
 ###
