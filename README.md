@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="bgGithub"  />
+  <img data-importer="image" height="200" src="./bgGithub.svg"  />
 </div>
 
 ###
