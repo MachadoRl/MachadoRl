@@ -28,23 +28,16 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.simpleicons.org/react/white" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/white" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/white" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/white" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/white" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/white" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/white" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/white" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white&color=0d1117" height="40" alt="css3 logo" />
+  <img src="https://img.shields.io/badge/React-0e0e0e?style=for-the-badge&logo=react&logoColor=f2f2f2" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0e0e0e?style=for-the-badge&logo=tailwind-css&logoColor=f2f2f2" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-0e0e0e?style=for-the-badge&logo=bootstrap&logoColor=f2f2f2" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Node.js-0e0e0e?style=for-the-badge&logo=nodedotjs&logoColor=f2f2f2" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0e0e0e?style=for-the-badge&logo=postgresql&logoColor=f2f2f2" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0e0e0e?style=for-the-badge&logo=mysql&logoColor=f2f2f2" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-0e0e0e?style=for-the-badge&logo=git&logoColor=f2f2f2" alt="Git" />
+  <img src="https://img.shields.io/badge/JavaScript-0e0e0e?style=for-the-badge&logo=javascript&logoColor=f2f2f2" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0e0e0e?style=for-the-badge&logo=html5&logoColor=f2f2f2" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0e0e0e?style=for-the-badge&logo=css3&logoColor=f2f2f2" alt="CSS3" />
 </div>
 
 ###
