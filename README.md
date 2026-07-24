@@ -9,17 +9,16 @@
   <a href="https://www.linkedin.com/in/rodrigolemesm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e0e0e?style=for-the-badge&logo=linkedin&logoColor=f2f2f2" alt="LinkedIn" />
   </a>
-  <a href="SEU_LINK_AQUI" target="_blank">
+  <a href="https://linktree-machado.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-0e0e0e?style=for-the-badge&logo=linktree&logoColor=f2f2f2" alt="Linktree" />
   </a>
-  <a href="SEU_LINK_AQUI" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-0e0e0e?style=for-the-badge&logo=vercel&logoColor=f2f2f2" alt="Portfólio" />
   </a>
 </div>
 
 <br>
 
-<!-- Altura reduzida de 200 para 45 para tirar o espaço em branco -->
 <div data-importer="image" align="center">
   <img data-importer="image" height="45" src="./Sobre mim.svg" />
   <hr>
@@ -37,7 +36,6 @@
 <br clear="both">
 <br>
 
-<!-- Altura reduzida de 200 para 45 -->
 <div data-importer="image" align="center">
   <img data-importer="image" height="45" src="./Tecnologias.svg" />
   <hr>
