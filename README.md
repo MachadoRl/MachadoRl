@@ -36,6 +36,7 @@
 
 <br clear="both">
 <br>
+<br>
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="45" src="./Tecnologias.svg" />
