@@ -1,16 +1,14 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="./bgGithub.svg"  />
+  <img data-importer="image" height="200" src="./bgGithub.svg" />
 </div>
 
-###
+<br>
 
-<h2 data-importer="text" align="center">Sobre mim</h2>
+<h2 data-importer="text" align="center" style="font-family: 'Goudy Bookletter 1911', Georgia, serif; font-weight: normal;">
+  ❖ Sobre mim
+</h2>
 
-###
-
-<img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hnN3ZwNmJvdzNtNXl6azI1aXNzam5jbjl2cGsxczQ1MDV2NjQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoJY7gHANZ2iQ/giphy.gif"  />
-
-###
+<img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hnN3ZwNmJvdzNtNXl6azI1aXNzam5jbjl2cGsxczQ1MDV2NjQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoJY7gHANZ2iQ/giphy.gif" />
 
 <p data-importer="text" align="left">
   • Formado em Desenvolvimento de Sistemas na Etec Sales Gomes - Tatuí, SP.<br><br>
@@ -19,13 +17,12 @@
   • Aberto a novas oportunidades para me colocar no mercado de tecnologia.
 </p>
 
-###
-
 <br clear="both">
+<br>
 
-<h2 data-importer="text" align="center">Tecnologias</h2>
-
-###
+<h2 data-importer="text" align="center" style="font-family: 'Goudy Bookletter 1911', Georgia, serif; font-weight: normal;">
+  &lt;/&gt; Tecnologias
+</h2>
 
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/React-0e0e0e?style=for-the-badge&logo=react&logoColor=f2f2f2" alt="React" />
@@ -39,5 +36,3 @@
   <img src="https://img.shields.io/badge/HTML5-0e0e0e?style=for-the-badge&logo=html5&logoColor=f2f2f2" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0e0e0e?style=for-the-badge&logo=css3&logoColor=f2f2f2" alt="CSS3" />
 </div>
-
-###
