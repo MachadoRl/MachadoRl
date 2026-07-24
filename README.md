@@ -6,6 +6,7 @@
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="./Sobre mim.svg" />
+  <hr>
 </div>
 
 <img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hnN3ZwNmJvdzNtNXl6azI1aXNzam5jbjl2cGsxczQ1MDV2NjQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoJY7gHANZ2iQ/giphy.gif" />
@@ -20,9 +21,10 @@
 <br clear="both">
 <br>
 
-<h2 data-importer="text" align="center" style="font-family: 'Goudy Bookletter 1911', Georgia, serif; font-weight: normal;">
-  &lt;/&gt; Tecnologias
-</h2>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="./Tecnologias.svg" />
+  <hr>
+</div>
 
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/React-0e0e0e?style=for-the-badge&logo=react&logoColor=f2f2f2" alt="React" />
