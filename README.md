@@ -5,7 +5,7 @@
 <br>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="./sobre mim.svg" />
+  <img data-importer="image" height="200" src="./Sobre mim.svg" />
 </div>
 
 <img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hnN3ZwNmJvdzNtNXl6azI1aXNzam5jbjl2cGsxczQ1MDV2NjQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoJY7gHANZ2iQ/giphy.gif" />
