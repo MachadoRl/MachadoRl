@@ -13,10 +13,10 @@
 ###
 
 <p data-importer="text" align="left">
-  <span style="color: #58a6ff;">•</span> Formado em Desenvolvimento de Sistemas na Etec Sales Gomes - Tatuí, SP.<br><br>
-  <span style="color: #58a6ff;">•</span> Aprimorando conhecimentos em TailwindCSS, Node.js e React.<br><br>
-  <span style="color: #58a6ff;">•</span> O que estou construindo: Desenvolvendo o Overload, uma plataforma de criação e gerenciamento de rotinas de treinos. Unindo a paixão pelo esporte e musculação com o código para ajudar outros atletas.<br><br>
-  <span style="color: #58a6ff;">•</span> Aberto a novas oportunidades para me colocar no mercado de tecnologia.
+  • Formado em Desenvolvimento de Sistemas na Etec Sales Gomes - Tatuí, SP.<br><br>
+  • Aprimorando conhecimentos em TailwindCSS, Node.js e React.<br><br>
+  • O que estou construindo: Desenvolvendo o Overload, uma plataforma de criação e gerenciamento de rotinas de treinos. Unindo a paixão pelo esporte e musculação com o código para ajudar outros atletas.<br><br>
+  • Aberto a novas oportunidades para me colocar no mercado de tecnologia.
 </p>
 
 ###
